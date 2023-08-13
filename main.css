@@ -46,6 +46,7 @@ a {
 .layout-iK2Opl {
   display: flex;
   width: 100%;
+  flex-direction: row-reverse;
 }
 .layout-iK2Opl .left-q30rJA {
   width: 300px;
